@@ -23,10 +23,13 @@
 ![image](https://drive.google.com/uc?export=view&id=14Xkce52-kgrNgtw_un1CanMUJnqAhq92)    
 
 
-# Use tfidf combine word embedding to sentence ranking
+## Use tfidf combine word embedding to sentence ranking
 先對每個單詞計算其word embedding後  
 在對所有句子算tfidf  
 把每個單詞的embedding乘上對應的tfidf值來算出新的embedding  
 利用新的embedding來計算similarity取出前10名印出  
 
+## 實際畫面  
+![image](https://drive.google.com/uc?export=view&id=1AcGrlpl_u12vs9GAa-lPEGH43di5EvL6)    
+![image](https://drive.google.com/uc?export=view&id=17ewaR6qGUY2pfIitM5BNZHm3JAIZxcW1)    
 
