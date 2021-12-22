@@ -30,10 +30,10 @@
 利用新的embedding來計算similarity取出前10名印出  
 
 ## 實際畫面  
-#### default page (use tfidf embedding):
+#### default page (use tfidf embedding):  
 ![image](https://drive.google.com/uc?export=view&id=1AcGrlpl_u12vs9GAa-lPEGH43di5EvL6)    
-#### search
+#### search:  
 ![image](https://drive.google.com/uc?export=view&id=17ewaR6qGUY2pfIitM5BNZHm3JAIZxcW1)    
 
-<!-- rank/default_no_tfidf can see original embedding -->
+rank/default_no_tfidf can see original embedding  
 
