@@ -25,7 +25,7 @@
 
 ## Use tfidf combine word embedding to sentence ranking
 先對每個單詞計算其word embedding後  
-在對所有句子算tfidf  
+再對所有句子算tfidf  
 把每個單詞的embedding乘上對應的tfidf值來算出新的embedding  
 利用新的embedding來計算similarity取出前10名印出  
 
